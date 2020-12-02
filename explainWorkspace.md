@@ -2,7 +2,7 @@
 
 El interfaz de Visual Studio Code contiene varios elementos principales en su ventana de edición de código. Los elementos más importantes de la interfaz de usuario son:
 
-![área de trabajo de VSC](img/vscWorkspace.png.png)
+![área de trabajo de VSC](img/vscWorkspace.png)
 
 
 1. Pestañas de editores: muestra las ventanas de edición abiertas. El editor es el área principal y más grande, con paneles de edición que pueden verse simultáneamente y con el tipo de disposición que desee el usuario. Para abrir una ventana de edición y que se vea al lado de otra, se hace click derecho en el archivo en la barra lateral y se selecciona "Open to the Side". Se pueden abrir tantas ventanas de edición como se deseen.
