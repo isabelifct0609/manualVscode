@@ -1,6 +1,6 @@
 ### Explicar área de trabajo
 
-El interfaz de Visual Studio Code contiene varios elementos principales en su ventana de edición de código. Los elementos más importantes de la interfaz de usuario son:
+La interfaz de Visual Studio Code contiene varios elementos principales en su ventana de edición de código. Los elementos más importantes de la interfaz de usuario son:
 
 ![área de trabajo de VSC](img/vscWorkspace.png)
 
